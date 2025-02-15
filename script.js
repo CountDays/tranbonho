@@ -3,7 +3,7 @@ document[_0x1dc45a(0xa2)](_0x1dc45a(0x8c),function(){const _0x558c58=_0x1dc45a;v
 function _0x246a(){const _0x1d637a=['Nhớ\x20nhớ\x20nhớ\x20em!','13908hEyGYM','11802024qVfstF','innerHTML','body','27822RpdKYo','inline-block','505qATHyy','extraButton','finalMessage','div','894333CZlYCw','addEventListener','442215YpjOxi','display','notification','top','appendChild','length','style','2603624DGAsfV','closest','257096BHIPYv','\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22notification-header\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22minimize-btn\x22\x20onclick=\x22minimizeNotification(this)\x22>–</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span>Tràn\x20ngập\x20bộ</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<p>','block','91uiWNLu','getElementById','DOMContentLoaded','110QUrjYC','3SkTmiD','random','floor','.notification','left','innerWidth','innerHeight','none'];_0x246a=function(){return _0x1d637a;};return _0x246a();}function showFinalMessage(){const _0x1445d0=_0x1dc45a,_0x3a523f=document[_0x1445d0(0x8b)](_0x1445d0(0x9f));_0x3a523f[_0x1445d0(0x84)][_0x1445d0(0x7f)]=_0x1445d0(0x89),drawOnCanvas(),setTimeout(()=>{const _0x46f095=_0x1445d0,_0x1b1f96=document['getElementById'](_0x46f095(0x9e));_0x1b1f96[_0x46f095(0x84)]['display']=_0x46f095(0x9c);},0x7d0);}
 
 function redirectToNewPage() {
- window.location.href = "countdays.github.io/Heart";
+ window.location.href = "https://countdays.github.io/Heart/";
 
 }
 
